@@ -1,3 +1,3 @@
 # Nord Tech Systems
 
-testing...
+Welcome to our repo's. Check out our open source projects.
